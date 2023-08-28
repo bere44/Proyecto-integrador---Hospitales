@@ -1,6 +1,6 @@
 ## Proyecto Integrador Hospitales
 
-##Objetivo:
+## Objetivo:
 
 Definir el mejor modelo de clasificacion para conocer si una persona que ya ha pasado por un procedimiento de biopsia y ha presentado una serie de sintomas debe ser hospitalizada o no.
 
